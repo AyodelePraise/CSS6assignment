@@ -1,0 +1,31 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    color: #ffff;
+    font-family: arial;
+   
+}
+body{
+    background-color: maroon;
+    line-height: 2em;
+    margin-top: 2em;
+}
+b{
+    font-size: 70px;
+}
+h3{
+    font-weight: lighter;
+    color: rgb(194, 187, 187);
+}
+.img-background{
+    background-color: rgb(34, 3, 3) ;
+    height: fit-content;
+    width: 23em;
+    font-size: 30px;
+}
+ul li b{
+    font-size: 20px;
+}
+a[href="wikipedia"]{
+    color: blue;
+}
